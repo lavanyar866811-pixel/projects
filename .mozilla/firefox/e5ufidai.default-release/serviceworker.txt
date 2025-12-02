@@ -1,0 +1,13 @@
+9
+^partitionKey=%28https%2Cgeeksforgeeks.org%29
+https://www.googletagmanager.com/static/service_worker
+https://www.googletagmanager.com/static/service_worker/5ba0/sw.js?origin=https%3A%2F%2Fwww.geeksforgeeks.org
+false
+{f2e78e42-ff23-49d0-a46d-2d50bbf19176}
+1
+1764042244736099
+1764042244738365
+1764042244710056
+0
+true
+#

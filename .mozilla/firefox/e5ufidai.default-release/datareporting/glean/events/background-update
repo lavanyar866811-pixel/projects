@@ -1,0 +1,8 @@
+{"timestamp":286912,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","glean_timestamp":"1764386539018","experiment":"encrypted-client-hello-fallback-mechanism","branch":"control"}}
+{"timestamp":286913,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","experiment":"fx-accounts-ping-release-rollout-2","glean_timestamp":"1764386539020","branch":"control"}}
+{"timestamp":286916,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","branch":"control","glean_timestamp":"1764386539022","experiment":"disabling-chips-for-v131-only"}}
+{"timestamp":286917,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1764386539023","experiment":"long-term-holdback-2025h1-growth-desktop","branch":"delivery","experiment_type":"nimbus"}}
+{"timestamp":286921,"category":"nimbus_events","name":"enrollment","extra":{"glean_timestamp":"1764386539028","experiment":"pdf-annotations-highlight-treatment-b-rollout","branch":"treatment-b","experiment_type":"rollout"}}
+{"timestamp":286942,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","experiment_type":"rollout","experiment":"deprecate-ipaddrany-rollout-for-release","glean_timestamp":"1764386539048"}}
+{"timestamp":286971,"category":"nimbus_events","name":"enroll_failed","extra":{"glean_timestamp":"1764386539077","experiment":"pin-frequently-used-websites-en-promo-rollout-no-min-version","reason":"feature-conflict"}}
+{"timestamp":316192,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","glean_timestamp":"1764386568298","experiment":"pin-frequently-used-websites-en-promo-rollout-no-min-version"}}
